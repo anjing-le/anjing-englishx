@@ -1,0 +1,33 @@
+.build/
+dist/
+.DS_Store
+.local/
+__pycache__/
+*.pyc
+
+# Local configuration, credentials, and generated processing data
+.swiftpm/
+.codex/
+.env
+.env.*
+!.env.example
+auth.json
+*.pem
+*.key
+*.log
+Models/
+Library/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.srt
+*.vtt
+
+# Personal artwork: retained locally, not included in the open-source tree
+Resources/AppIcon-source.png
+Resources/AppIcon.icns
+Sources/EnglishX/Resources/Cursors/*.png
