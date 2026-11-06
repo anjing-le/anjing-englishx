@@ -1,5 +1,7 @@
 # EnglishX
 
+- README.md and README.zh-CN.md are image-first bilingual entry pages: keep only language/guide navigation and illustrations, without long prose, headings, lists or tables. Maintain detailed setup, privacy, limitations and documentation in GUIDE.md and GUIDE.zh-CN.md. README illustrations are concepts, not screenshots or proof of release/accuracy.
+
 - Product: EnglishX. Public source repository: https://github.com/anjing-le/anjing-englishx (MIT).
 - Current scope: user-authorized real local video ingestion and learning, alongside two explicitly labelled mock clips. The first licensed 12.213-second sample has run through ASR, audio DTW token alignment, generated explanations and draft library storage. It is NOT accepted as fully accurate; preserve needs-review status; legacy clips keep unassigned speakers, new character suggestions remain unreviewed.
 - Native macOS 14+, Swift / SwiftUI / AppKit / SwiftPM, following createX's quiet paper styling.
