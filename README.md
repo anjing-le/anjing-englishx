@@ -6,7 +6,27 @@
   <a href="GUIDE.md"><img src="assets/readme/paper-v2/00-brand.png" width="360" alt="EnglishX: original crayon film, audio and dialogue brand illustration, not a screenshot." /></a>
 </p>
 
-[View the illustrated Chinese introduction](README.zh-CN.md) · Artwork is illustrative, not a product screenshot.
+<p align="center">
+  <a href="assets/readme/paper-v2/01-overview.en.png"><img src="assets/readme/paper-v2/01-overview.en.png" width="100%" alt="EnglishX overview: your clip library, replaying dialogue, words in context, and review with preserved versions. Feature illustration; AI results need review." /></a>
+</p>
+
+<p align="center">
+  <a href="assets/readme/paper-v2/02-library.en.png"><img src="assets/readme/paper-v2/02-library.en.png" width="100%" alt="Your Clip Library: keep your own processed videos in a library alongside the learning workspace. Original illustrative scenes, not a screenshot." /></a>
+</p>
+
+<p align="center">
+  <a href="assets/readme/paper-v2/03-playback.en.png"><img src="assets/readme/paper-v2/03-playback.en.png" width="100%" alt="Replay the Dialogue: click a sentence to seek, adjust playback speed, and follow the current word in gold. Original example dialogue." /></a>
+</p>
+
+<p align="center">
+  <a href="assets/readme/paper-v2/04-context.en.png"><img src="assets/readme/paper-v2/04-context.en.png" width="100%" alt="Words in Context: contextual meanings for words and phrases, with UK and US references. Explanations need review." /></a>
+</p>
+
+<p align="center">
+  <a href="assets/readme/paper-v2/05-review.en.png"><img src="assets/readme/paper-v2/05-review.en.png" width="100%" alt="Review and Save: correct words and timing, save and update analysis, and keep previous versions. Feature illustration; AI results need review." /></a>
+</p>
+
+These are feature illustrations, not product screenshots.
 
 A native macOS client for learning English from videos you enjoy. Collect a scene, replay it, speak along and understand each word in context.
 

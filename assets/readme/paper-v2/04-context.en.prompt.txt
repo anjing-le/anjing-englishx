@@ -1,0 +1,9 @@
+Tool: built-in image_gen
+Use case: text-localization. EDIT ONLY THE TEXT in the supplied approved EnglishX Chinese README illustration. Output must preserve exactly the original 1774x887 canvas, 2:1 aspect ratio, scene and panel layout, film illustrations, paper grain, graphite/crayon marks, colors, coast pictures, controls, spacing and relative sizes. This is a localized variant of the same image, not a redesign. Replace all Chinese text with the exact English equivalents below; keep existing English labels/teaching example dialogue and all decorative strokes unless explicitly listed. Match the same hand-lettered appearance, charcoal headings, handwriting hierarchy, peach/gold accents. Adjust lettering size gently within the existing text areas to fit English; never overlap the art or cut words, and do not shrink into unreadable tiny text. Do not add or remove objects, change product features, invent controls, or translate product name EnglishX. No Chinese characters should remain. Preserve illustrative/needs-review disclaimer.
+Heading "词句理解" -> "Words in Context".
+Subtitle "不只查意思，也看它在这句话里怎么用。" -> "Learn the meaning and how it is used here."
+Meaning next to made it: "成功了" -> "succeeded".
+Explanation "这里指成功做到，而不是制作某样东西。" -> "Here it means succeeding, not making an object."
+Two lower labels "英式参考" -> "UK reference"; "美式参考" -> "US reference".
+Footer "功能示意 · 讲解需核对" -> "Feature illustration · Explanations need review".
+Keep You made it. sentence, gold made highlight, made it heading, make, film art, connector and folded page exactly as is.

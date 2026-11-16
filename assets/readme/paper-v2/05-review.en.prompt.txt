@@ -1,0 +1,7 @@
+Tool: built-in image_gen
+Use case: text-localization. EDIT ONLY THE TEXT in the supplied approved EnglishX Chinese README illustration. Output must preserve exactly the original 1774x887 canvas, 2:1 aspect ratio, scene and panel layout, film illustrations, paper grain, graphite/crayon marks, colors, coast pictures, controls, spacing and relative sizes. This is a localized variant of the same image, not a redesign. Replace all Chinese text with the exact English equivalents below; keep existing English labels/teaching example dialogue and all decorative strokes unless explicitly listed. Match the same hand-lettered appearance, charcoal headings, handwriting hierarchy, peach/gold accents. Adjust lettering size gently within the existing text areas to fit English; never overlap the art or cut words, and do not shrink into unreadable tiny text. Do not add or remove objects, change product features, invent controls, or translate product name EnglishX. No Chinese characters should remain. Preserve illustrative/needs-review disclaimer.
+Heading "校对保存" -> "Review and Save".
+Subtitle "修正原话与时间，保留每一版。" -> "Correct words and timing. Keep every version."
+Action "保存并更新分析" -> "Save and Update Analysis".
+Footer "功能示意 · 自动结果需核对" -> "Feature illustration · AI results need review".
+Keep You made it., You / made / it. word cells, timeline ticks, peach pencil, v1 and v2 sheets, connecting arrow and all geometry unchanged.

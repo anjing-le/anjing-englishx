@@ -1,0 +1,7 @@
+Tool: built-in image_gen
+Use case: text-localization. EDIT ONLY THE TEXT in the supplied approved EnglishX Chinese README illustration. Output must preserve exactly the original 1774x887 canvas, 2:1 aspect ratio, scene and panel layout, film illustrations, paper grain, graphite/crayon marks, colors, coast pictures, controls, spacing and relative sizes. This is a localized variant of the same image, not a redesign. Replace all Chinese text with the exact English equivalents below; keep existing English labels/teaching example dialogue and all decorative strokes unless explicitly listed. Match the same hand-lettered appearance, charcoal headings, handwriting hierarchy, peach/gold accents. Adjust lettering size gently within the existing text areas to fit English; never overlap the art or cut words, and do not shrink into unreadable tiny text. Do not add or remove objects, change product features, invent controls, or translate product name EnglishX. No Chinese characters should remain. Preserve illustrative/needs-review disclaimer.
+Heading "对白回放" -> "Replay the Dialogue".
+Subtitle "点一句回放，按自己的节奏反复听。" -> "Click a line. Replay it at your own pace."
+Below video "made it · 成功了" -> "made it · succeeded".
+Footer "功能示意" -> "Feature illustration".
+Keep EXACT original English dialogue "You made it.", "I knew you could.", "Let's go.", golden made, 0.75× speed, cursor, controls, coastline and positions unchanged.
